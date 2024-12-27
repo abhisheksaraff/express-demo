@@ -44,7 +44,7 @@ The application includes basic error handling middleware that logs errors to the
 
 ## Tutorial Reference
 
-This project is part of a tutorial from [The Odin Project](https://www.theodinproject.com/courses/nodejs/lessons/views), which provides comprehensive lessons on building web applications using Node.js and Express.
+This project is part of a tutorial from [The Odin Project](https://www.theodinproject.com/), which provides comprehensive lessons on building web applications using Node.js and Express.
 
 ## Contributing
 
